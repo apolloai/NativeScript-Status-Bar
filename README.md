@@ -1,6 +1,6 @@
 # Apollo.ai NativeScript StatusBar plugin
 
-A fork of peterstaevs simple NativeScript plugin for controlling status bar visibility.
+A fork of https://github.com/PeterStaev simple NativeScript plugin for controlling status bar visibility.
 
 ## Installation
 
