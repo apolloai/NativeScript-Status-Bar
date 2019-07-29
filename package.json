@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-status-bar",
-  "version": "1.1.0",
+  "name": "apolloai-nativescript-status-bar",
+  "version": "1.1.1",
   "description": "A simple NativeScript plugin for controlling status bar visibility.",
   "main": "status-bar.js",
   "nativescript": {
@@ -12,17 +12,17 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/PeterStaev/NativeScript-Status-Bar"
+    "url": "https://github.com/apolloai/NativeScript-Status-Bar"
   },
 
   "keywords": [
     "NativeScript",
     "StatusBar",
-    "tangra"
+    "apolloai"
   ],
   "author": "Peter Staev <peter@tangrasoft.com>",
   "contributors": [
-    "Adrian Pluta (https://github.com/aplut)"
+    "Paul Weber (https://github.com/000panther)"
   ],
   "license": "Apache-2.0",
 
